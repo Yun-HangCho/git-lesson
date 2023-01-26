@@ -1,5 +1,7 @@
 # Lyrics to I like to move it
 
+![alt text](https://static.wixstatic.com/media/13c7fb_16f6e7a6d8a34856980e76037d96e266~mv2.jpg/v1/fill/w_640,h_710,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/13c7fb_16f6e7a6d8a34856980e76037d96e266~mv2.jpg)
+
 I like to **move it**, **move it**
 
 I like to **move it**, **move it**
@@ -216,3 +218,4 @@ Move it
 
 ---
 Stolen from [LyricFind:](https://www.lyrics.com/lyric/8445206/I+Like+to+Move+It)
+
